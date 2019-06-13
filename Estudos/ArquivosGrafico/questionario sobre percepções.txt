@@ -1,0 +1,86 @@
+Questionário sobre diferentes perspectivas do experimento do diagrama fundamental 
+
+Nome: 
+Faixa etária: Menos de 20 anos; de 20 até 30 anos; de 31 a 40 anos; de 41 até 50 anos; mais de 51 anos
+Escolaridade: Ensino médio completo; superior incompleto; superior completo; pós-graduação incompleta; pós-graduação completa
+Gênero: M/F/Outros
+
+Funcionamento:
+Tela inicial - print da tela inicial
+Escolher o tipo de avatar - print de seleção ou do humanóide ou do cilindro
+Escolher o vídeo - print de como escolher o video
+print de esperar carregamento
+play/pause na visualização do vídeo escolhido - Print da tela do visualizador marcando o botão de play/pause
+print da mini camera
+prints clicando em cima do avatar para mostrar camera em primeira pessoa
+prints para voltar para a camera inicial
+prints para voltar a simulação
+prints para observação do cenário em primeira pessoa
+
+Descrever reação de deslocamento da pessoa da frente
+
+Mostrar vídeos sobre o que é alta, média e baixa densidade
+
+1) Qual sua percepção do nível de densidade sobre esse vídeo? Usando cilindro (alta; média; baixa; não sei)
+2) Qual sua percepção do nível de densidade sobre esse vídeo? Usando humanóide (alta; média; baixa; não sei)
+Mostrar imagens sobre a câmera em primeira pessoa, a câmera inicial e a mini câmera
+3) Se há alguma percepção, em qual câmera isso é mais notável? Usando cilindro (primeira pessoa, mini camera, não sei)
+4) Se há alguma percepção, em qual câmera isso é mais notável? Usando humanóide (primeira pessoa, mini camera, não sei)
+
+
+Mostrar vídeos mostrando o que seria velocidade alta e baixa
+
+5) Qual sua percepção sobre os níveis de velocidade das pessoas nos vídeos? Usando cilindro (alta; baixa; não sei)
+
+6) Qual sua percepção sobre os níveis de velocidade das pessoas nos vídeos? Usando humanóide (alta; baixa; não sei)
+
+7) Se há alguma percepção, em qual câmera isso é mais notável? Usando cilindro (primeira pessoa, mini camera, não sei)
+
+8) Se há alguma percepção, em qual câmera isso é mais notável? Usando humanóide (primeira pessoa, mini camera, não sei)
+
+
+Percepção de orientação da pessoa (Exemplo: para onde a pessoa está olhando)
+
+9) Há percepção sobre orientação das pessoas nesse vídeo? Com cilindros (Sim; Não; Não sei)
+
+10) Há percepção sobre orientação das pessoas nesse vídeo? Com humanóides (Sim; Não; Não sei)
+
+11) Se há alguma percepção, em qual câmera isso é mais notável? Usando cilindro (primeira pessoa, mini câmera, não sei)
+
+12) Se há alguma percepção, em qual câmera isso é mais notável? Usando humanóide (primeira pessoa, mini câmera, não sei)
+
+
+NÃOOOO Mostrar como são as distâncias perto e longe
+
+13)NÃOOOO Qual sua percepção de distância entre as pessoas no vídeo? Usando cilindro (perto; longe; não sei) 
+
+14)NÃOOOO Qual sua percepção de distância entre as pessoas no vídeo? Usando humanóide (perto; longe; não sei)
+
+15)NÃOOOO Se há alguma percepção, em qual câmera isso é mais notável? Usando cilindro (primeira pessoa, mini câmera, não sei)
+
+16)NÃOOOO Se há alguma percepção, em qual câmera isso é mais notável? Usando humanóide (primeira pessoa, mini câmera, não sei)
+
+
+Descrever que podem ocorrer distâncias menores e maiores entre as pessoas
+
+17) Há percepção de maior e menor distância entre as pessoas? Usando cilindro (sim; não; não sei)
+
+18) Há percepção de maior e menor distância entre as pessoas? Usando humanóide (sim; não; não sei)
+
+19) Se há alguma percepção, em qual câmera isso é mais notável? Usando cilindro (primeira pessoa, mini câmera, não sei)
+
+20) Se há alguma percepção, em qual câmera isso é mais notável? Usando humanóide (primeira pessoa, mini câmera, não sei)
+
+
+21) Há percepção de aumento de velocidade de uma pessoa se a pessoa da frente se distanciar? Usando cilindro (sim, não, não sei)
+
+22) Há percepção de aumento de velocidade de uma pessoa se a pessoa da frente se distanciar? Usando cilindro (sim, não, não sei)
+
+23) Se há alguma percepção, em qual câmera isso é mais notável? Usando cilindro (primeira pessoa, mini câmera, não sei)
+
+24) Se há alguma percepção, em qual câmera isso é mais notável? Usando humanóide (primeira pessoa, mini câmera, não sei)
+
+
+25) Com base nas respostas das perguntas anteriores sobre as percepções e das visualizações usando avatares humanóides e cilindros, qual foi o avatar que mais favoreceu nas percepções citadas nas perguntas anteriores? (Humanóide, Cilindro, Não sei)
+
+26) Com base nas respostas das perguntas anteriores sobre as percepções e das visualizações usando a câmera em primeira pessoa, a câmera inicial e a mini câmera, qual foi a câmera que mais favoreceu nas percepções citadas nas perguntas anteriores? (primeira pessoa, câmera inicial, mini câmera, não sei)

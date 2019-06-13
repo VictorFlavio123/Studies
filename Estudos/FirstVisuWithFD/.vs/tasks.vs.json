@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "tarefa-Agent",
+      "appliesTo": "Assets/Scripts/Agent/Agent.cs",
+      "type": "launch"
+    },
+    {
+      "taskName": "tarefa-Agent",
+      "appliesTo": "Assets/Scripts/Agent/Agent.cs",
+      "type": "launch"
+    }
+  ]
+}

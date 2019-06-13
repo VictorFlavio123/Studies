@@ -1,0 +1,29 @@
+Idade;Escolaridade;Genero;BaixaDensidade;MediaDensidade;AltaDensidade;CameraPercepDensidade;AvatarPercepDensidade;Variacaodevelocidade;CamPercepVariaVelo;Avatar PercepVariaVelo;Maior distEntrepessoas;CamPercepDistan;AvatPercepDistan;Andandomaisrapido;Mudandodedir;CamMudanDedir;AvatMudanDedir
+20-30;Superior completo;Masculino;BR-25;GE-15;GE-34;Perspective;OsDois;Sim;Perspective;Os dois;GE-15;Egocentric;OsDois;GE-15;naosei;Naohouvepercep;Naohouvepercep
+20-30;Médio completo;Masculino;GE-15;BR-25;GE-34;Perspective;Humanoid;Yes;Egocentric;Humanoid;GE-15;Perspective;Humanoid;GE-15;BR-25;Egocentric;Humanoid
+menor20;Médio completo;Masculino;GE-15;BR-25;GE-34;Perspective;Humanoid;Yes;Egocentric;Humanoid;GE-15;Perspective;Humanoid;GE-15;NoPerception;NoPerception;NoPerception
+20-30;Pós-graduação;Masculino;GE-15;BR-25;GE-34;Egocentric;Humanoid;Yes;Perspective;Cylinder;GE-15;Perspective;Humanoid;GE-15;BR-25;Egocentric;Humanoid
+20-30;Superior completo;Masculino;GE-15;BR-25;GE-34;Perspective;Humanoid;Yes;Perspective;Humanoid;GE-15;Egocentric;Humanoid;GE-15;GE-34;Egocentric;Humanoid
+31-50;Superior completo;Masculino;GE-15;BR-25;GE-34;Perspective;Humanoid;NoPerception;NoPerception;Both;GE-15;Perspective;Cylinder;NoPerception;GE-15;Egocentric;Humanoid
+menor20;Superior completo;Masculino;GE-15;BR-25;GE-34;Perspective;Cylinder;Yes;Egocentric;Both;GE-15;Egocentric;Both;GE-15;NoPerception;NoPerception;NoPerception
+menor20;Médio completo;Feminino;BR-15;GE-34;BR-25;Perspective;Humanoid;NoPerception;NoPerception;NoPerception;BR-15;Perspective;Both;BR-15;BR-25;Perspective;Humanoid
+20-30;Pós-graduação;Masculino;BR-15;GE-34;BR-25;Egocentric;Both;Yes;Perspective;Both;BR-15;Perspective;Both;BR-15;BR-25;Perspective;Both
+20-30;Superior completo;Masculino;BR-15;BR-25;GE-34;Perspective;Both;Yes;Egocentric;Humanoid;GE-34;Perspective;Humanoid;BR-15;GE-34;Perspective;Humanoid
+20-30;Pós-graduação;Masculino;BR-15;BR-25;GE-34;Perspective;Humanoid;Yes;Egocentric;Both;BR-15;Perspective;Both;BR-15;GE-34;Perspective;Both
+20-30;Superior completo;Feminino;BR-15;BR-25;GE-34;Perspective;Humanoid;Yes;Egocentric;Humanoid;BR-15;Egocentric;Both;BR-15;GE-34;Perspective;Humanoid
+20-30;Superior completo;Masculino;BR-15;BR-25;GE-34;Perspective;Humanoid;Yes;NoPerception;Humanoid;BR-15;Perspective;Humanoid;BR-15;GE-34;Egocentric;Both
+20-30;Médio completo;Feminino;BR-15;BR-25;GE-34;Perspective;Humanoid;Yes;NoPerception;Humanoid;BR-15;Perspective;Humanoid;BR-15;GE-34;Egocentric;Both
+20-30;Médio completo;Masculino;GE-15;GE-25;BR-34;Perspective;Humanoid;Yes;Egocentric;Humanoid;GE-15;Perspective;Humanoid;GE-15;NoPerception;Perspective;Humanoid
+20-30;Pós-graduação;Masculino;GE-15;GE-25;BR-34;Perspective;Cylinder;Yes;Perspective;Humanoid;GE-15;Perspective;Humanoid;GE-15;BR-34;Perspective;Humanoid
+20-30;Superior completo;Masculino;GE-15;GE-25;BR-34;Perspective;Humanoid;No;Egocentric;Humanoid;GE-15;Perspective;Humanoid;GE-15;GE-25;Egocentric;Humanoid
+20-30;Pós-graduação;Masculino;GE-15;GE-25;BR-34;Perspective;Both;NoPerception;Perspective;Humanoid;GE-15;Perspective;Both;GE-15;BR-34;Egocentric;Humanoid
+31-50;Pós-graduação;Masculino;GE-15;BR-34;GE-25;Egocentric;Humanoid;NoPerception;Perspective;Humanoid;GE-25;Perspective;Cylinder;GE-25;GE-25;Perspective;Humanoid
+20-30;Pós-graduação;Masculino;GE-15;GE-25;BR-34;Perspective;Both;Yes;Perspective;Both;GE-15;Perspective;Cylinder;GE-15;BR-34;Perspective;Humanoid
+20-30;Pós-graduação;Masculino;GE-15;GE-25;BR-34;Perspective;Humanoid;Yes;Perspective;Cylinder;GE-15;Perspective;Humanoid;BR-34;BR-34;Egocentric;Humanoid
+31-50;Superior completo;Masculino;BR-15;GE-25;BR-34;Perspective;Humanoid;Yes;Egocentric;Both;BR-15;Egocentric;Cylinder;BR-34;GE-25;Egocentric;Humanoid
+20-30;Médio completo;Masculino;BR-15;GE-25;BR-34;Egocentric;Humanoid;Yes;Perspective;Humanoid;BR-15;Perspective;Both;BR-15;BR-15;Egocentric;Humanoid
+20-30;Médio completo;Masculino;BR-15;GE-25;BR-34;Perspective;Both;Yes;Perspective;Humanoid;BR-15;Egocentric;Humanoid;BR-15;GE-25;Egocentric;Humanoid
+20-30;Pós-graduação;Masculino;BR-15;GE-25;BR-34;Perspective;Humanoid;Yes;Perspective;Humanoid;BR-15;Perspective;Humanoid;BR-15;BR-15;Perspective;Humanoid
+20-30;Superior completo;Masculino;BR-15;GE-25;BR-34;Perspective;Both;Yes;Egocentric;Cylinder;BR-15;Perspective;Cylinder;BR-15;BR-34;Perspective;Humanoid
+20-30;Superior completo;Masculino;BR-15;GE-25;BR-34;Perspective;Humanoid;NoPerception;NoPerception;NoPerception;BR-15;Perspective;Humanoid;NoPerception;BR-34;Perspective;Humanoid
+20-30;Superior completo;Masculino;BR-15;GE-25;BR-34;Perspective;Both;Yes;Perspective;Cylinder;BR-15;Perspective;Humanoid;BR-15;NoPerception;Perspective;Humanoid

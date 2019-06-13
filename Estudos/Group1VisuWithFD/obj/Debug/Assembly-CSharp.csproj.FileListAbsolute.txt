@@ -1,0 +1,687 @@
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\mscorlib.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\System.Core.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\System.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\System.Xml.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityScript.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\obj\Debug\Assembly-CSharp.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\Visualization Project\firstvisu\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\mscorlib.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\System.Core.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\System.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\System.Xml.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityScript.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\obj\Debug\Assembly-CSharp.dll
+C:\Users\Luiz\Desktop\Victor\Dissertação Victor\All Visualizations\First Person Visualization\firstvisu\obj\Debug\Assembly-CSharp.pdb
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\mscorlib.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\System.Core.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\System.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\System.Xml.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEditor.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityScript.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEditor.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\obj\Debug\Assembly-CSharp.dll
+C:\Users\victo\Desktop\Dissertação\All Visualizations\First Person Visualization\firstvisu\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\mscorlib.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\System.Core.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\System.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\System.Xml.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.WebGLModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityScript.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Vuforia.UnityExtensions.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\Vuforia.UnityExtensions.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Luiz\Desktop\Victor\firstvisu\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Luiz\Desktop\Victor\firstvisu\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Desktop\Victor\firstvisu\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Luiz\Desktop\Victor\firstvisu\obj\Debug\Assembly-CSharp.dll
+C:\Users\Luiz\Desktop\Victor\firstvisu\obj\Debug\Assembly-CSharp.pdb

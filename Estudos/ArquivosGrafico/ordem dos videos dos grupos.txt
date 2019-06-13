@@ -1,0 +1,7 @@
+Group1 - Video 1 (BR-25); Video 2 (GE-15); Video 3 (GE-34);
+
+Group2 - Video 1 (GE-34); Video 2 (BR-15); Video 3 (BR-25);
+
+Group3 - Video 1 (GE-15); Video 2 (BR-34); Video 3 (GE-25);
+
+Group4 - Video 1 (GE-25); Video 2 (BR-34); Video 3 (BR-15);

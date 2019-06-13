@@ -1,0 +1,61 @@
+{
+    "NormalLife": false,
+    "BioCloudsEnabled": false,
+    "TerrainX": 70,
+    "TerrainZ": 70,
+    "FramesPerSecond": 30,
+    "showMarkers": false,
+    "showCells": true,
+    "SpawnAreas": [
+        {
+            "qtd": 10,
+            "max": {
+                "x": 60,
+                "y": 0,
+                "z": 60
+            },
+            "min": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "goal": {
+                "x": 50.0,
+                "y": 0.0,
+                "z": 50.0
+            },
+            "maxSpeed": 1.399999976158142
+        }
+    ],
+    "WayPoints": [
+        {
+            "x": 25.0,
+            "y": 0.0,
+            "z": 25.0
+        },
+        {
+            "x": 45.0,
+            "y": 0.0,
+            "z": 25.0
+        },
+        {
+            "x": 25.0,
+            "y": 0.0,
+            "z": 45.0
+        },
+        {
+            "x": 15.0,
+            "y": 0.0,
+            "z": 25.0
+        },
+        {
+            "x": 25.0,
+            "y": 0.0,
+            "z": 15.0
+        }
+    ],
+    "WayPointOn": true,
+    "agentRadius": 1.0,
+    "markerRadius": 0.10000000149011612,
+    "MarkerDensity": 0.6499999761581421
+}
